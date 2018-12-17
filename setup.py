@@ -38,7 +38,7 @@ setup(
     description = 'A practice command line program in Python.',
     long_description = long_description,
     url = 'https://github.com/luludarcy/testcli',
-    author = 'Lulu D'Arcy',
+    author = 'Lulu D\'Arcy',
     author_email = 'luludarcy@gmail.com',
     license = 'UNLICENSE',
     classifiers = [
